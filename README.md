@@ -23,7 +23,7 @@ Para asegurar la calidad y fiabilidad de los resultados, se llevó a cabo un exh
 
 ## Resultados
 
-El estudio logró identificar los modelos más efectivos para predecir la deserción laboral, proporcionando a las organizaciones insights clave para diseñar estrategias de retención que minimicen la rotación de personal y mejoren la productividad.
+"El estudio logró identificar los modelos más efectivos para predecir la deserción laboral, proporcionando a las organizaciones insights clave para diseñar estrategias de retención que minimicen la rotación de personal y mejoren la productividad."
 
 ## Comparación con Estudios Previos
 
