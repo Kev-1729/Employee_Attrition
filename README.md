@@ -1,36 +1,44 @@
-# Predicción de Deserción Laboral usando Modelos de Machine Learning
+Aquí tienes la traducción al inglés:  
 
-## Descripción del Proyecto
+---
 
-Este proyecto tiene como objetivo predecir la probabilidad de renuncia de los empleados basándose en varios factores identificados, con el fin de ayudar a las organizaciones a desarrollar estrategias efectivas de retención. La rotación de personal puede ser costosa para las empresas, no solo en términos financieros sino también en cuanto a la moral y productividad del equipo. A través del uso de modelos de machine learning, buscamos proporcionar a las organizaciones herramientas valiosas para mejorar la retención de empleados.
+# Employee Attrition Prediction Using Machine Learning Models  
 
-## Modelos Implementados
+## Project Description  
 
-Se implementaron y compararon tres modelos de machine learning para la predicción de la deserción laboral:
+This project aims to predict employee resignation probabilities based on various identified factors, helping organizations develop effective retention strategies. Employee turnover can be costly for companies, not only financially but also in terms of team morale and productivity. By leveraging machine learning models, we seek to provide organizations with valuable tools to improve employee retention.  
 
-- **Máquina de Soporte Vectorial (SVM)**: Alcanzó el mejor desempeño con un accuracy del 86%.
-- **Bosques Aleatorios (Random Forests)**: Obtuvo un accuracy del 83%, demostrando ser una alternativa robusta.
-- **Naive Bayes**: Aunque tuvo un accuracy menor del 76%, sigue siendo un modelo útil bajo ciertas circunstancias.
+## Implemented Models  
 
-## Preprocesamiento de Datos
+Three machine learning models were implemented and compared for employee attrition prediction:  
 
-Para asegurar la calidad y fiabilidad de los resultados, se llevó a cabo un exhaustivo proceso de preprocesamiento de los datos:
+- **Support Vector Machine (SVM)**: Achieved the best performance with an accuracy of 86%.  
+- **Random Forests**: Reached an accuracy of 83%, proving to be a robust alternative.  
+- **Naive Bayes**: Although it had a lower accuracy of 76%, it remains useful under certain circumstances.  
 
-- **Identificación y Corrección de Datos Faltantes**: Se manejaron adecuadamente para evitar sesgos en los modelos.
-- **Estandarización de Datos**: Los datos numéricos fueron normalizados para mejorar la eficiencia del aprendizaje.
-- **Corrección de Valores Categóricos**: Se ajustaron los valores categóricos para ser interpretados correctamente por los modelos.
-- **Eliminación de Outliers**: Se identificaron y eliminaron outliers que podrían distorsionar los resultados.
+## Data Preprocessing  
 
-## Resultados
+To ensure the quality and reliability of the results, an extensive data preprocessing process was carried out:  
 
-"El estudio logró identificar los modelos más efectivos para predecir la deserción laboral, proporcionando a las organizaciones insights clave para diseñar estrategias de retención que minimicen la rotación de personal y mejoren la productividad."
+- **Handling Missing Data**: Properly managed to avoid biases in the models.  
+- **Data Standardization**: Numerical data was normalized to improve learning efficiency.  
+- **Categorical Data Encoding**: Adjusted to be correctly interpreted by the models.  
+- **Outlier Removal**: Identified and eliminated outliers that could distort the results.  
 
-## Comparación con Estudios Previos
+## Results  
 
-Se realizó una comparación con investigaciones previas en el campo de la deserción laboral, evaluando la efectividad de los modelos propuestos en relación con otros enfoques. Los resultados obtenidos respaldan la validez de las técnicas utilizadas y ofrecen una mejora significativa en la precisión de las predicciones en comparación con otros métodos.
+"The study successfully identified the most effective models for predicting employee attrition, providing organizations with key insights to design retention strategies that minimize turnover and enhance productivity."  
 
-## Cómo Ejecutar el Proyecto
+## Comparison with Previous Studies  
 
-1. **Clona este repositorio**:
+A comparison was conducted with prior research on employee attrition, evaluating the effectiveness of the proposed models relative to other approaches. The obtained results support the validity of the techniques used and offer a significant improvement in prediction accuracy compared to other methods.  
+
+## How to Run the Project  
+
+1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/your-username/repository-name.git
+   ```  
+
+---
+
