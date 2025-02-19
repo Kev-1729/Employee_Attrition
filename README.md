@@ -1,7 +1,3 @@
-Aquí tienes la traducción al inglés:  
-
----
-
 # Employee Attrition Prediction Using Machine Learning Models  
 
 ## Project Description  
