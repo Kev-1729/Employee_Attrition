@@ -34,7 +34,5 @@ A comparison was conducted with prior research on employee attrition, evaluating
 1. **Clone this repository**:  
    ```bash
    git clone https://github.com/your-username/repository-name.git
-   ```  
-
----
+   ``` 
 
